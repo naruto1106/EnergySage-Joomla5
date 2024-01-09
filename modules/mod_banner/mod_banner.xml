@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension type="module" version="5.0.0" client="site" method="upgrade">
+    <name>banner postal code</name>
+    <author>Alexander</author>
+    <version>1.0.0</version>
+    <description>A simple function of taking the user's input(zip code), and send the user to a designed quote form page in banner section.</description>
+    <files>
+         <filename>mod_banner.xml</filename>
+        <filename module="mod_banner">mod_banner.php</filename>
+        <filename>index.html</filename>
+        <filename>helper.php</filename>
+        <filename>tmpl/default.php</filename>
+        <filename>tmpl/index.html</filename>
+    </files>
+    <config>
+    </config>
+</extension>
+
+
+
+ 

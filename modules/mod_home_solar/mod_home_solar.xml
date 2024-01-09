@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension type="module" version="5.0.0" client="site" method="upgrade">
+    <name>Home solar banner</name>
+    <author>Alexander</author>
+    <version>1.0.0</version>
+    <description>This is home solar banner section.</description>
+    <files>
+         <filename>mod_home_solar.xml</filename>
+        <filename module="mod_home_solar">mod_home_solar.php</filename>
+        <filename>index.html</filename>
+        <filename>helper.php</filename>
+        <filename>tmpl/default.php</filename>
+        <filename>tmpl/index.html</filename>
+    </files>
+    <config>
+    </config>
+</extension>
+
+
+
+ 

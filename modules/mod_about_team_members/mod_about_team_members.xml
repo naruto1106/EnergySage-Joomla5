@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension type="module" version="5.0.0" client="site" method="upgrade">
+    <name>About Team members</name>
+    <author>Alexander</author>
+    <version>1.0.0</version>
+    <description>This is about team members section.</description>
+    <files>
+         <filename>mod_about_team_members.xml</filename>
+        <filename module="mod_about_team_members">mod_about_team_members.php</filename>
+        <filename>index.html</filename>
+        <filename>helper.php</filename>
+        <filename>tmpl/default.php</filename>
+        <filename>tmpl/index.html</filename>
+    </files>
+    <config>
+    </config>
+</extension>
+
+
+
+ 

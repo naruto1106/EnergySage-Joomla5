@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension type="module" version="5.0.0" client="site" method="upgrade">
+    <name>About careers image list</name>
+    <author>Alexander</author>
+    <version>1.0.0</version>
+    <description>This is about careers image list section.</description>
+    <files>
+         <filename>mod_about_careers_img.xml</filename>
+        <filename module="mod_about_careers_img">mod_about_careers_img.php</filename>
+        <filename>index.html</filename>
+        <filename>helper.php</filename>
+        <filename>tmpl/default.php</filename>
+        <filename>tmpl/index.html</filename>
+    </files>
+    <config>
+    </config>
+</extension>
+
+
+
+ 
